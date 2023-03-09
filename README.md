@@ -1,7 +1,6 @@
-<img src="https://Welcome.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
+#Gimael
 
-
-<div align="center" font-weight: bold>
+<div align="center" font-weight: 300>
 고등학교 3학년에 재학중 :school:
 </div>
 
