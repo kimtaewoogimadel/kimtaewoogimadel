@@ -1,10 +1,10 @@
 <div align="center" dir="auto">
 
-# Gimadel
+# Hello My Name Is Gimadel
 
-<div font-weight: 300>
+<h3 dir="auto">
 고등학교 3학년에 재학중 :school:
-</div>
+</h3>
 
 
 <!--
